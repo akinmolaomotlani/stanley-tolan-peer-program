@@ -38,9 +38,11 @@ li {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
 .nav-link {
   text-decoration: none;
 }
+
 .about {
   margin-bottom: 141px;
 }
