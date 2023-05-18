@@ -46,3 +46,9 @@ li {
 .about {
   margin-bottom: 141px;
 }
+
+.paragragh {
+  background-color: #999;
+  color: #fff;
+  border-radius: 4px;
+}
