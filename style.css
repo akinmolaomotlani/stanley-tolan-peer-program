@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "poppins", sans-serif;
+  background-color: #fff;
+  overflow-x: hidden;
+}
+
+.connect-link {
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+li {
+  list-style: none;
+}
+
+.bg {
+  background-color: #fff;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar-toggler {
+  box-shadow: none;
+}
+
+.section-hero {
+  background-image: url(img/Header\ bg.svg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.about {
+  margin-bottom: 141px;
+}
+
+.paragraph {
+  background-color: #999;
+  color: #fff;
+  border-radius: 4px;
+  padding: 4px 12px;
+}
+
+.section-contact {
+  background-color: #6070ff;
+  background-image: url(img/contact\ form\ background\ shapes.svg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 24px;
+}
