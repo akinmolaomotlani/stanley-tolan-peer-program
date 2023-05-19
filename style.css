@@ -47,10 +47,11 @@ li {
   margin-bottom: 141px;
 }
 
-.paragragh {
+.paragraph {
   background-color: #999;
   color: #fff;
   border-radius: 4px;
+  padding: 4px 12px;
 }
 
 .section-contact {
